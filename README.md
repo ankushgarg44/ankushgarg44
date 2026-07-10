@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Ankush Garg
 
-**AI-Focused Full-Stack Engineer || Electronics & Communication Engineering Student**
+**AI-Focused Full-Stack Engineer 🚀 || I turn ideas into shipped, live products**
 
 Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, or anything else. 😊
 
-- 🔭 **I'm currently working on:** Scout — an agentic AI assistant for college admission queries using LangGraph
-- 🌱 **I'm currently learning:** RTL design, Verilog/FPGA development, and digital verification
+- 🔭 **I'm currently building:** Scout — an agentic AI assistant that reasons over documents like a human, not a search bar
+- 🌱 **I'm currently exploring:** Multi-agent systems and smarter LLM tool-calling workflows
 - 👯 **I'm looking to collaborate on:** AI-powered SaaS products and agentic AI systems
-- 🤔 **I'm looking for help with:** Scaling AI agent workflows and real-time systems
-- 💬 **Ask me about:** Full-stack development, LangGraph/LangChain, RAG systems, real-time apps
+- 🤔 **I'm looking for help with:** Scaling real-time systems and agentic pipelines
+- 💬 **Ask me about:** Full-stack development, LangGraph/LangChain, agentic AI, real-time apps
 - 📫 **How to reach me:** ankushgarg7868@gmail.com
-- ⚡ **Fun fact:** I build the full stack — from FPGA gates to AI agents
+- ⚡ **Fun fact:** I'd rather ship something small and real than plan something big and imaginary
 
 [![](https://visitcount.itsvg.in/api?id=ankushgarg44&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -55,10 +55,19 @@ Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, o
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgarg44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=ankushgarg44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankushgarg44&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-garg-22364227a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankushgarg663/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Open-Signature-367/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnkushG59101116)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankushgarg44&limit=5&theme=dark&combine_all_yearly_contributions=true)
