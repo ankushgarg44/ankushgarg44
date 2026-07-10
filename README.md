@@ -25,8 +25,6 @@ Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, o
 - 📄 **[ResumeAI](https://resume-ai-pi-ten.vercel.app)** — AI-powered resume builder SaaS with Claude API-driven Smart Assembly
 - 💬 **[QuickChat](https://chat-app-dusky-iota.vercel.app)** — Real-time chat app built with Socket.IO, React, and MongoDB
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankushgarg44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,5 +67,3 @@ Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, o
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankushgarg44&limit=5&theme=dark&combine_all_yearly_contributions=true)
