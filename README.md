@@ -54,9 +54,11 @@ Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, o
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgarg44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=ankushgarg44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankushgarg44&theme=dark&hide_border=false)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankush-garg-22364227a)
