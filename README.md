@@ -25,6 +25,11 @@ Email Me 👉 ✉️ **ankushgarg7868@gmail.com** for collaboration, projects, o
 - 📄 **[ResumeAI](https://resume-ai-pi-ten.vercel.app)** — AI-powered resume builder SaaS with Claude API-driven Smart Assembly
 - 💬 **[QuickChat](https://chat-app-dusky-iota.vercel.app)** — Real-time chat app built with Socket.IO, React, and MongoDB
 
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
+</p>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
